@@ -1,6 +1,6 @@
 # Import necessary libraries.
 import openai
-from langchain.llms import AzureOpenAI
+from langchain_openai import AzureOpenAI
 from langchain.agents import create_pandas_dataframe_agent
 import pandas as pd
 
