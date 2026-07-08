@@ -36,7 +36,6 @@ streamlit run run.py
 ![alt text](./git-images/git-image-4.png)
 
 
-
 Author: Sakina muzzammil
 
 Thank you for exploring this project !
